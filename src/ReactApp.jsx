@@ -12,8 +12,6 @@ export const ReactApp = () => {
 
   <SaludoProps nombre="Avl" apellido="Vins" edad="33" />
 
-  
-
 </>
   )
 }
