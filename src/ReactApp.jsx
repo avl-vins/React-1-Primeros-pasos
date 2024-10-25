@@ -1,6 +1,11 @@
+import { Saludo } from "./components/Saludo"
 
 export const ReactApp = () => {
   return (
-    <div>ReactApp</div>
+<>
+  <h1>Primeros pasos en React</h1>
+  <h3>Creando y usando componentes</h3>
+  <Saludo/>
+</>
   )
 }
