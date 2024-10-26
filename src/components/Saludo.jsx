@@ -3,7 +3,8 @@ const cardSaludo = {
   border:"1px solid #c9c9c9",
   padding:".5rem",
   marginBottom:"1rem", 
-  textAlign:"center"
+  textAlign:"center",
+  margin:"1rem auto"
 }  
 
 export const Saludo = () => {
