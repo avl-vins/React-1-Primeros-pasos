@@ -36,7 +36,7 @@ ComponentPropTYpes.propTypes = {
     nick:PropTypes.string
 }
 ComponentPropTYpes.defaultProps = {
-  nick:"user"   
-}
+    nick:"user"   
+  }
 
 
